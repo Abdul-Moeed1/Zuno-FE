@@ -5,7 +5,8 @@ export const routes = [
     },
     {
         path: "/login",
-        element: <>Login</>
+        element: <div className="bg-primary text-secondary
+         text-3xl">Login</div>
     },
     {
         path: "/signup",
