@@ -3,5 +3,8 @@
 
 @theme{
     --color-primary : #037ffc;
+    --color-primary-hover : #0275e8;
     --color-secondary : #04bf42;
+    --color-border : #97999c;
+
 }

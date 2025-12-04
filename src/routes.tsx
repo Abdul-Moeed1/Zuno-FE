@@ -1,3 +1,5 @@
+import { Login } from "./pages/login";
+
 export const routes = [
     {
         path: "/",
@@ -5,8 +7,7 @@ export const routes = [
     },
     {
         path: "/login",
-        element: <div className="bg-primary text-secondary
-         text-3xl">Login</div>
+        element: <Login />
     },
     {
         path: "/signup",
